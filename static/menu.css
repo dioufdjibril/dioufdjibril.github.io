@@ -32,3 +32,9 @@ nav  a{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+
+img {
+  height: 200px;
+  width: 700px;
+}
